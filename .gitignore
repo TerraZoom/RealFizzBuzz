@@ -3,6 +3,13 @@
 /public/storage
 /storage/*.key
 /vendor
+/app
+/bootstrap
+/config
+/database
+/resource
+/routes
+/storage
 .env
 .env.backup
 .phpunit.result.cache
@@ -10,3 +17,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+composerlock
+phpunit.xml
+server.php
+webpack.mix.js
