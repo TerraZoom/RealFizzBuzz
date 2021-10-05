@@ -10,6 +10,7 @@
 /resource/
 /routes/
 /storage/
+/public/
 .env
 .env.backup
 .phpunit.result.cache
