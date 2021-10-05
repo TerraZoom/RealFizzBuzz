@@ -22,6 +22,4 @@ if( $value % 15 == 0 ) {
     echo $value;
   }
 }
-
-
 ?>

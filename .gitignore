@@ -18,7 +18,12 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
-composerlock
+composer.lock
 phpunit.xml
 server.php
 webpack.mix.js
+styleci.yml
+artisan
+post.html
+project1.php
+.editorconfig

@@ -36,6 +36,4 @@ echo "buzz: " . $numBuzz . "<br />";
 echo "fizzbuzz: " . $numFizzBuzz . "<br />";
 echo "lucky: " . $numLucky . "<br />";
 echo "integer: " . $numInteger . "<br />";
-
-
 ?>
